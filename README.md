@@ -42,3 +42,7 @@ $ npm run serve
 or
 $ yarn serve
 ```
+logs
+- 21/12/14: Audits(LightHouse)를 이용한 페이지 검사
+- 21/12/16: 이미지 사이즈 최적화
+- 21/12/17: Bottleneck 코드 탐색 (Performance)
