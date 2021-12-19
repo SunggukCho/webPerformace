@@ -34,7 +34,7 @@ function removeSpecialCharacter(str) {
   // }
 
   // 정규식으로 최적화
-  let _str = str
+  let _str = str.substring(0, 300)
   _str = _str.replace(/[\#\_str\*\~\&\;\~\[\]\`\n\=\-]/g, "")
 
 
