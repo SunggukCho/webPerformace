@@ -46,3 +46,5 @@ logs
 - 21/12/14: Audits(LightHouse)를 이용한 페이지 검사
 - 21/12/16: 이미지 사이즈 최적화
 - 21/12/17: Bottleneck 코드 탐색 (Performance)
+- 21/12/19: Bottleneck 코드 최적화
+- 21/12/21: code splitting
