@@ -48,3 +48,6 @@ logs
 - 21/12/17: Bottleneck 코드 탐색 (Performance)
 - 21/12/19: Bottleneck 코드 최적화
 - 21/12/21: code splitting
+- 21/12/26: 텍스트 압축 (텍스트 인코딩) -u 제거
+- 21/12/26: 애니메이션 최적화 (reflow & repaint) => 렌더링 성능 최적화
+- 21/12/26: 컴포넌트 lazy loading & preloading & 이미지 preloading => 로딩 성능 최적화
